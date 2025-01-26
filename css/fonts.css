@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "SF400";
+  src: url(../fonts/SFProText-400.ttf);
+}
+@font-face {
+  font-family: "SF500";
+  src: url(../fonts/SFProText-500.ttf);
+}
+@font-face {
+  font-family: "SF600";
+  src: url(../fonts/SFProText-600.ttf);
+}
+@font-face {
+  font-family: "SF700";
+  src: url(../fonts/SFProText-700.ttf);
+}
